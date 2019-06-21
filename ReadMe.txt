@@ -1,1 +1,1 @@
-这是医学概念连接模型的生成模型
+This is a model for Concept Linking in Medical.
